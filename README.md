@@ -7,16 +7,13 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 ## 📂 Living Repository Index
 
 ### 📁 methodologies/CHFI-mapping
-  * [Malware Forensics Tools](methodologies/CHFI-mapping/malware-forensics-tools.md)
+  * [CHFI Forensics Tools](methodologies/CHFI-mapping/CHFI-forensics-tools.md)
 
 ### 📁 methodologies/compliance-frameworks
   * [20241114 Infragard Ai Framework Critical Infrastructure](methodologies/compliance-frameworks/20241114-infragard-ai-framework-critical-infrastructure.md)
 
 ### 📁 methodologies/dfir-incident-response
   * [Chain Of Custody](methodologies/dfir-incident-response/chain-of-custody.md)
-
-### 📁 methodologies/dfir-incident-response/dfir-databases/dfir-databases
-  * [Common Database Attacks](methodologies/dfir-incident-response/dfir-databases/dfir-databases/common-database-attacks.md)
 
 ### 📁 methodologies/dfir-incident-response/dfir-malware
   * [Malware Components](methodologies/dfir-incident-response/dfir-malware/malware-components.md)
@@ -30,10 +27,39 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
   * [Apple Ipod Audio File Support](technologies/Apple/apple-ipod-audio-file-support.md)
   * [Mac Boot Process](technologies/Apple/mac-boot-process.md)
 
+### 📁 technologies/Cloud
+  * [Cloud Computing Advantages Disadvantages](technologies/Cloud/cloud-computing-advantages-disadvantages.md)
+  * [Cloud Key Characteristics Of Cloud Computing](technologies/Cloud/cloud-key-characteristics-of-cloud-computing.md)
+
+### 📁 technologies/Cloud/cloud-digital-forensics
+  * [Aws Cloud Forensics](technologies/Cloud/cloud-digital-forensics/aws-cloud-forensics.md)
+  * [Azure Cloud Forensics](technologies/Cloud/cloud-digital-forensics/azure-cloud-forensics.md)
+  * [Cloud Computing Threats And Attacks](technologies/Cloud/cloud-digital-forensics/cloud-computing-threats-and-attacks.md)
+  * [Cloud Forensics](technologies/Cloud/cloud-digital-forensics/cloud-forensics.md)
+  * [Cloud Forensics Challenges](technologies/Cloud/cloud-digital-forensics/cloud-forensics-challenges.md)
+
 ### 📁 technologies/databases
+  * [Cloud Computing Separation Of Duty](technologies/databases/cloud-computing-separation-of-duty.md)
   * [Microsoft Sql Logs](technologies/databases/microsoft-sql-logs.md)
   * [Mysql Logs](technologies/databases/mysql-logs.md)
   * [Sql Standard Commands](technologies/databases/sql-standard-commands.md)
+
+### 📁 technologies/databases/database-digital-forensics
+  * [Common Database Attacks](technologies/databases/database-digital-forensics/common-database-attacks.md)
+
+### 📁 technologies/IoT
+  * [Common Iot Communication Protocols](technologies/IoT/common-iot-communication-protocols.md)
+  * [Iot Architecture](technologies/IoT/iot-architecture.md)
+  * [Iot Key Components](technologies/IoT/iot-key-components.md)
+
+### 📁 technologies/IoT/IoT-digital-forensics
+  * [Forensics On Iot Devices](technologies/IoT/IoT-digital-forensics/forensics-on-iot-devices.md)
+  * [Iot Attacks](technologies/IoT/IoT-digital-forensics/iot-attacks.md)
+  * [Iot Common Types Of Data Collected](technologies/IoT/IoT-digital-forensics/iot-common-types-of-data-collected.md)
+  * [Iot Owasp](technologies/IoT/IoT-digital-forensics/iot-owasp.md)
+
+### 📁 technologies/IoT/IoT-hardening-secops
+  * [Iot Security Problems](technologies/IoT/IoT-hardening-secops/iot-security-problems.md)
 
 ### 📁 technologies/Linux
   * [Linux Levels Of Expertise](technologies/Linux/linux-levels-of-expertise.md)
