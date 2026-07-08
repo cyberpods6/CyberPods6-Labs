@@ -19,6 +19,8 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 
 ### 📁 methodologies/dfir-incident-response
   * [Chain Of Custody](methodologies/dfir-incident-response/chain-of-custody.md)
+  * [Forensics Anti Forensics](methodologies/dfir-incident-response/forensics-anti-forensics.md)
+  * [Forensics Ascii](methodologies/dfir-incident-response/forensics-ascii.md)
   * [Forensics Warrants](methodologies/dfir-incident-response/forensics-warrants.md)
 
 ### 📁 methodologies/dfir-incident-response/dfir-malware
