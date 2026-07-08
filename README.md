@@ -50,3 +50,15 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
   * [Linux Sec Groups](technologies/linux/hardening-secops/linux-sec-groups.md)
   * [Linux Sec Hardening The Server](technologies/linux/hardening-secops/linux-sec-hardening-the-server.md)
   * [Linux Ss Replace Netstat](technologies/linux/hardening-secops/linux-ss-replace-netstat.md)
+
+### 📁 technologies/Windows/admin-foundations
+  * [General Windows Boot Process](technologies/Windows/admin-foundations/general-windows-boot-process.md)
+  * [Mbr Vs Gpt](technologies/Windows/admin-foundations/mbr-vs-gpt.md)
+  * [Windows Cli Commands](technologies/Windows/admin-foundations/windows-cli-commands.md)
+  * [Windows Key Features Of The Ntfs File System](technologies/Windows/admin-foundations/windows-key-features-of-the-ntfs-file-system.md)
+
+### 📁 technologies/Windows/digital-forensics
+  * [Forensics Windows File Analysis](technologies/Windows/digital-forensics/forensics-windows-file-analysis.md)
+  * [Windows Events Logs](technologies/Windows/digital-forensics/windows-events-logs.md)
+  * [Windows Jump Lists](technologies/Windows/digital-forensics/windows-jump-lists.md)
+  * [Windows Lnk Files](technologies/Windows/digital-forensics/windows-lnk-files.md)
