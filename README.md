@@ -11,9 +11,15 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 
 ### 📁 methodologies/compliance-frameworks
   * [20241114 Infragard Ai Framework Critical Infrastructure](methodologies/compliance-frameworks/20241114-infragard-ai-framework-critical-infrastructure.md)
+  * [20241228 Eu Mandates Usb C Standard](methodologies/compliance-frameworks/20241228-eu-mandates-usb-c-standard.md)
+  * [Canada Artificial Intelligence And Data Act](methodologies/compliance-frameworks/canada-artificial-intelligence-and-data-act.md)
+  * [Dod Cyber Workforce Framework Dcwf](methodologies/compliance-frameworks/dod-cyber-workforce-framework-dcwf.md)
+  * [Nice Framework Components V100](methodologies/compliance-frameworks/nice-framework-components-v100.md)
+  * [Usa Blueprint For An Ai Bill Of Rights](methodologies/compliance-frameworks/usa-blueprint-for-an-ai-bill-of-rights.md)
 
 ### 📁 methodologies/dfir-incident-response
   * [Chain Of Custody](methodologies/dfir-incident-response/chain-of-custody.md)
+  * [Forensics Warrants](methodologies/dfir-incident-response/forensics-warrants.md)
 
 ### 📁 methodologies/dfir-incident-response/dfir-malware
   * [Malware Components](methodologies/dfir-incident-response/dfir-malware/malware-components.md)
