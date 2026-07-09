@@ -7,9 +7,22 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 ## 📂 Living Repository Index
 
 ### 📁 methodologies/CHFI-mapping
-  * [1 Forensics Science Investigation Methodology](methodologies/CHFI-mapping/1-forensics-science-investigation-methodology.md)
-  * [2 Digital Evidence Data Acquisition](methodologies/CHFI-mapping/2-digital-evidence-data-acquisition.md)
   * [CHFI Forensics Tools](methodologies/CHFI-mapping/CHFI-forensics-tools.md)
+  * [Module 01 Computer Forensics In Todays World](methodologies/CHFI-mapping/module-01-computer-forensics-in-todays-world.md)
+  * [Module 02 Computer Forensics Investigation Process](methodologies/CHFI-mapping/module-02-computer-forensics-investigation-process.md)
+  * [Module 03 Understanding Hard Disks And File Systems](methodologies/CHFI-mapping/module-03-understanding-hard-disks-and-file-systems.md)
+  * [Module 04 Data Acquisition And Duplication](methodologies/CHFI-mapping/module-04-data-acquisition-and-duplication.md)
+  * [Module 05 Defeating Anti Forensics Techniques](methodologies/CHFI-mapping/module-05-defeating-anti-forensics-techniques.md)
+  * [Module 06 Windows Forensics](methodologies/CHFI-mapping/module-06-windows-forensics.md)
+  * [Module 07 Linux And Mac Forensics](methodologies/CHFI-mapping/module-07-linux-and-mac-forensics.md)
+  * [Module 08 Network Forensics](methodologies/CHFI-mapping/module-08-network-forensics.md)
+  * [Module 09 Malware Forensics](methodologies/CHFI-mapping/module-09-malware-forensics.md)
+  * [Module 10 Investigating Web Attacks](methodologies/CHFI-mapping/module-10-investigating-web-attacks.md)
+  * [Module 11 Dark Web Forensics](methodologies/CHFI-mapping/module-11-dark-web-forensics.md)
+  * [Module 12 Cloud Forensics](methodologies/CHFI-mapping/module-12-cloud-forensics.md)
+  * [Module 13 Email And Social Media Forensics](methodologies/CHFI-mapping/module-13-email-and-social-media-forensics.md)
+  * [Module 14 Mobile Forensics](methodologies/CHFI-mapping/module-14-mobile-forensics.md)
+  * [Module 15 Iot Forensics](methodologies/CHFI-mapping/module-15-IoT-forensics.md)
 
 ### 📁 methodologies/compliance-frameworks
   * [20241114 Infragard Ai Framework Critical Infrastructure](methodologies/compliance-frameworks/20241114-infragard-ai-framework-critical-infrastructure.md)
