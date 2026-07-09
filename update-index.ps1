@@ -20,7 +20,7 @@ To make learning easy, our training program is broken down into three main track
 
 ## 📂 Living Repository Index
 "@
-
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 # Write the header to the file (this resets old dynamic links)
 $Header | Out-File -FilePath .\README.md -Encoding utf8
 

@@ -47,43 +47,62 @@ To make learning easy, our training program is broken down into three main track
   * [Nice Framework Components V100](methodologies/compliance-frameworks/nice-framework-components-v100.md)
   * [Usa Blueprint For An Ai Bill Of Rights](methodologies/compliance-frameworks/usa-blueprint-for-an-ai-bill-of-rights.md)
 
-### 📁 methodologies/dfir-incident-response
-  * [Chain Of Custody](methodologies/dfir-incident-response/chain-of-custody.md)
-  * [Forensics Anti Forensics](methodologies/dfir-incident-response/forensics-anti-forensics.md)
-  * [Forensics Apple File Analysis](methodologies/dfir-incident-response/forensics-apple-file-analysis.md)
-  * [Forensics Ascii](methodologies/dfir-incident-response/forensics-ascii.md)
-  * [Forensics Ascii Vs Utf 8](methodologies/dfir-incident-response/forensics-ascii-vs-utf-8.md)
-  * [Forensics Common Mistakes](methodologies/dfir-incident-response/forensics-common-mistakes.md)
-  * [Forensics Different File System Structures](methodologies/dfir-incident-response/forensics-different-file-system-structures.md)
-  * [Forensics Different Types Of Evidence](methodologies/dfir-incident-response/forensics-different-types-of-evidence.md)
-  * [Forensics Document File Analysis](methodologies/dfir-incident-response/forensics-document-file-analysis.md)
-  * [Forensics File Systems](methodologies/dfir-incident-response/forensics-file-systems.md)
-  * [Forensics Fundamentals Of Computer Forensics](methodologies/dfir-incident-response/forensics-fundamentals-of-computer-forensics.md)
-  * [Forensics Hard Drive](methodologies/dfir-incident-response/forensics-hard-drive.md)
-  * [Forensics Hashing](methodologies/dfir-incident-response/forensics-hashing.md)
-  * [Forensics Key Ways Digital Forensics Helps](methodologies/dfir-incident-response/forensics-key-ways-digital-forensics-helps.md)
-  * [Forensics Operating Systems Basics](methodologies/dfir-incident-response/forensics-operating-systems-basics.md)
-  * [Forensics Os Boot Comparisons](methodologies/dfir-incident-response/forensics-os-boot-comparisons.md)
-  * [Forensics Performing Tor Browser Forensics](methodologies/dfir-incident-response/forensics-performing-tor-browser-forensics.md)
-  * [Forensics Roles Of The First Responder](methodologies/dfir-incident-response/forensics-roles-of-the-first-responder.md)
-  * [Forensics Social Media](methodologies/dfir-incident-response/forensics-social-media.md)
-  * [Forensics Types Of Encoding Standards](methodologies/dfir-incident-response/forensics-types-of-encoding-standards.md)
-  * [Forensics Types Of Harddrives](methodologies/dfir-incident-response/forensics-types-of-harddrives.md)
-  * [Forensics Warrants](methodologies/dfir-incident-response/forensics-warrants.md)
-  * [Forensics Write Blockers](methodologies/dfir-incident-response/forensics-write-blockers.md)
+### 📁 methodologies/dfir-incident-response/1-First-Response
+  * [0 1 Description](methodologies/dfir-incident-response/1-First-Response/0-1-Description.md)
+  * [Forensics Common Mistakes](methodologies/dfir-incident-response/1-First-Response/forensics-common-mistakes.md)
+  * [Forensics Different Types Of Evidence](methodologies/dfir-incident-response/1-First-Response/forensics-different-types-of-evidence.md)
+  * [Forensics Fundamentals Of Computer Forensics](methodologies/dfir-incident-response/1-First-Response/forensics-fundamentals-of-computer-forensics.md)
+  * [Forensics Roles Of The First Responder](methodologies/dfir-incident-response/1-First-Response/forensics-roles-of-the-first-responder.md)
+  * [Forensics Warrants](methodologies/dfir-incident-response/1-First-Response/forensics-warrants.md)
 
-### 📁 methodologies/dfir-incident-response/dfir-malware
-  * [Malware Components](methodologies/dfir-incident-response/dfir-malware/malware-components.md)
-  * [Malware Dynamic Analysis](methodologies/dfir-incident-response/dfir-malware/malware-dynamic-analysis.md)
-  * [Malware Enter Your System](methodologies/dfir-incident-response/dfir-malware/malware-enter-your-system.md)
-  * [Malware Indicators Of Compromise](methodologies/dfir-incident-response/dfir-malware/malware-indicators-of-compromise.md)
-  * [Malware Static Analysis](methodologies/dfir-incident-response/dfir-malware/malware-static-analysis.md)
-  * [Malware Tools Ida Pro](methodologies/dfir-incident-response/dfir-malware/malware-tools-ida-pro.md)
+### 📁 methodologies/dfir-incident-response/2-Evidence-Preservation
+  * [0 2 Description](methodologies/dfir-incident-response/2-Evidence-Preservation/0-2-description.md)
+  * [Chain Of Custody](methodologies/dfir-incident-response/2-Evidence-Preservation/chain-of-custody.md)
+  * [Forensics Hashing](methodologies/dfir-incident-response/2-Evidence-Preservation/forensics-hashing.md)
+  * [Forensics Write Blockers](methodologies/dfir-incident-response/2-Evidence-Preservation/forensics-write-blockers.md)
 
-### 📁 methodologies/dfir-incident-response/dfir-memory
-  * [Forensics Memory](methodologies/dfir-incident-response/dfir-memory/forensics-memory.md)
-  * [Forensics Memory Dump](methodologies/dfir-incident-response/dfir-memory/forensics-memory-dump.md)
-  * [Forensics Volatility](methodologies/dfir-incident-response/dfir-memory/forensics-volatility.md)
+### 📁 methodologies/dfir-incident-response/3-Data-Acquisition
+  * [0 3 Description](methodologies/dfir-incident-response/3-Data-Acquisition/0-3-description.md)
+  * [Forensics Different File System Structures](methodologies/dfir-incident-response/3-Data-Acquisition/forensics-different-file-system-structures.md)
+  * [Forensics Hard Drive](methodologies/dfir-incident-response/3-Data-Acquisition/forensics-hard-drive.md)
+  * [Forensics Operating Systems Basics](methodologies/dfir-incident-response/3-Data-Acquisition/forensics-operating-systems-basics.md)
+  * [Forensics Types Of Harddrives](methodologies/dfir-incident-response/3-Data-Acquisition/forensics-types-of-harddrives.md)
+
+### 📁 methodologies/dfir-incident-response/3-Data-Acquisition/dfir-memory
+  * [Forensics Memory](methodologies/dfir-incident-response/3-Data-Acquisition/dfir-memory/forensics-memory.md)
+  * [Forensics Memory Dump](methodologies/dfir-incident-response/3-Data-Acquisition/dfir-memory/forensics-memory-dump.md)
+  * [Forensics Volatility](methodologies/dfir-incident-response/3-Data-Acquisition/dfir-memory/forensics-volatility.md)
+
+### 📁 methodologies/dfir-incident-response/4-Data-Analysis
+  * [0 4 Description](methodologies/dfir-incident-response/4-Data-Analysis/0-4-description.md)
+  * [Forensics Anti Forensics](methodologies/dfir-incident-response/4-Data-Analysis/forensics-anti-forensics.md)
+  * [Forensics Apple File Analysis](methodologies/dfir-incident-response/4-Data-Analysis/forensics-apple-file-analysis.md)
+  * [Forensics Ascii](methodologies/dfir-incident-response/4-Data-Analysis/forensics-ascii.md)
+  * [Forensics Ascii Vs Utf 8](methodologies/dfir-incident-response/4-Data-Analysis/forensics-ascii-vs-utf-8.md)
+  * [Forensics Document File Analysis](methodologies/dfir-incident-response/4-Data-Analysis/forensics-document-file-analysis.md)
+  * [Forensics File Systems](methodologies/dfir-incident-response/4-Data-Analysis/forensics-file-systems.md)
+  * [Forensics Os Boot Comparisons](methodologies/dfir-incident-response/4-Data-Analysis/forensics-os-boot-comparisons.md)
+  * [Forensics Performing Tor Browser Forensics](methodologies/dfir-incident-response/4-Data-Analysis/forensics-performing-tor-browser-forensics.md)
+  * [Forensics Social Media](methodologies/dfir-incident-response/4-Data-Analysis/forensics-social-media.md)
+  * [Forensics Types Of Encoding Standards](methodologies/dfir-incident-response/4-Data-Analysis/forensics-types-of-encoding-standards.md)
+
+### 📁 methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware
+  * [Malware Components](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-components.md)
+  * [Malware Dynamic Analysis](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-dynamic-analysis.md)
+  * [Malware Enter Your System](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-enter-your-system.md)
+  * [Malware Indicators Of Compromise](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-indicators-of-compromise.md)
+  * [Malware Static Analysis](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-static-analysis.md)
+  * [Malware Tools Ida Pro](methodologies/dfir-incident-response/4-Data-Analysis/dfir-malware/malware-tools-ida-pro.md)
+
+### 📁 methodologies/dfir-incident-response/5-Case-Analysis
+  * [0 5 Description](methodologies/dfir-incident-response/5-Case-Analysis/0-5-description.md)
+
+### 📁 methodologies/dfir-incident-response/6-Reporting
+  * [0 6.Description](methodologies/dfir-incident-response/6-Reporting/0-6.description.md)
+  * [Forensics Key Ways Digital Forensics Helps](methodologies/dfir-incident-response/6-Reporting/forensics-key-ways-digital-forensics-helps.md)
+
+### 📁 methodologies/dfir-incident-response/7-Testimony
+  * [0 7 Description](methodologies/dfir-incident-response/7-Testimony/0-7-description.md)
 
 ### 📁 technologies/Apple
   * [Apple Boot Process](technologies/Apple/apple-boot-process.md)
