@@ -7,6 +7,7 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 ## 📂 Living Repository Index
 
 ### 📁 methodologies/CHFI-mapping
+  * [2 Digital Evidence & Data Acquisition](methodologies/CHFI-mapping/2-Digital Evidence & Data Acquisition.md)
   * [CHFI Forensics Tools](methodologies/CHFI-mapping/CHFI-forensics-tools.md)
 
 ### 📁 methodologies/compliance-frameworks
