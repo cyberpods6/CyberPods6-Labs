@@ -29,21 +29,49 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
   * [20241228 Eu Mandates Usb C Standard](methodologies/compliance-frameworks/20241228-eu-mandates-usb-c-standard.md)
   * [Canada Artificial Intelligence And Data Act](methodologies/compliance-frameworks/canada-artificial-intelligence-and-data-act.md)
   * [Dod Cyber Workforce Framework Dcwf](methodologies/compliance-frameworks/dod-cyber-workforce-framework-dcwf.md)
+  * [Forensics Federal Rules Of Evidence](methodologies/compliance-frameworks/forensics-federal-rules-of-evidence.md)
+  * [Forensics Incident Response Plan](methodologies/compliance-frameworks/forensics-incident-response-plan.md)
+  * [Forensics Laws And Regulations](methodologies/compliance-frameworks/forensics-laws-and-regulations.md)
   * [Nice Framework Components V100](methodologies/compliance-frameworks/nice-framework-components-v100.md)
   * [Usa Blueprint For An Ai Bill Of Rights](methodologies/compliance-frameworks/usa-blueprint-for-an-ai-bill-of-rights.md)
 
 ### 📁 methodologies/dfir-incident-response
   * [Chain Of Custody](methodologies/dfir-incident-response/chain-of-custody.md)
   * [Forensics Anti Forensics](methodologies/dfir-incident-response/forensics-anti-forensics.md)
+  * [Forensics Apple File Analysis](methodologies/dfir-incident-response/forensics-apple-file-analysis.md)
   * [Forensics Ascii](methodologies/dfir-incident-response/forensics-ascii.md)
+  * [Forensics Ascii Vs Utf 8](methodologies/dfir-incident-response/forensics-ascii-vs-utf-8.md)
+  * [Forensics Common Mistakes](methodologies/dfir-incident-response/forensics-common-mistakes.md)
+  * [Forensics Different File System Structures](methodologies/dfir-incident-response/forensics-different-file-system-structures.md)
+  * [Forensics Different Types Of Evidence](methodologies/dfir-incident-response/forensics-different-types-of-evidence.md)
+  * [Forensics Document File Analysis](methodologies/dfir-incident-response/forensics-document-file-analysis.md)
+  * [Forensics File Systems](methodologies/dfir-incident-response/forensics-file-systems.md)
+  * [Forensics Fundamentals Of Computer Forensics](methodologies/dfir-incident-response/forensics-fundamentals-of-computer-forensics.md)
+  * [Forensics Hard Drive](methodologies/dfir-incident-response/forensics-hard-drive.md)
+  * [Forensics Hashing](methodologies/dfir-incident-response/forensics-hashing.md)
+  * [Forensics Key Ways Digital Forensics Helps](methodologies/dfir-incident-response/forensics-key-ways-digital-forensics-helps.md)
+  * [Forensics Operating Systems Basics](methodologies/dfir-incident-response/forensics-operating-systems-basics.md)
+  * [Forensics Os Boot Comparisons](methodologies/dfir-incident-response/forensics-os-boot-comparisons.md)
+  * [Forensics Performing Tor Browser Forensics](methodologies/dfir-incident-response/forensics-performing-tor-browser-forensics.md)
+  * [Forensics Roles Of The First Responder](methodologies/dfir-incident-response/forensics-roles-of-the-first-responder.md)
+  * [Forensics Social Media](methodologies/dfir-incident-response/forensics-social-media.md)
+  * [Forensics Types Of Encoding Standards](methodologies/dfir-incident-response/forensics-types-of-encoding-standards.md)
+  * [Forensics Types Of Harddrives](methodologies/dfir-incident-response/forensics-types-of-harddrives.md)
   * [Forensics Warrants](methodologies/dfir-incident-response/forensics-warrants.md)
+  * [Forensics Write Blockers](methodologies/dfir-incident-response/forensics-write-blockers.md)
 
 ### 📁 methodologies/dfir-incident-response/dfir-malware
   * [Malware Components](methodologies/dfir-incident-response/dfir-malware/malware-components.md)
   * [Malware Dynamic Analysis](methodologies/dfir-incident-response/dfir-malware/malware-dynamic-analysis.md)
   * [Malware Enter Your System](methodologies/dfir-incident-response/dfir-malware/malware-enter-your-system.md)
+  * [Malware Indicators Of Compromise](methodologies/dfir-incident-response/dfir-malware/malware-indicators-of-compromise.md)
   * [Malware Static Analysis](methodologies/dfir-incident-response/dfir-malware/malware-static-analysis.md)
   * [Malware Tools Ida Pro](methodologies/dfir-incident-response/dfir-malware/malware-tools-ida-pro.md)
+
+### 📁 methodologies/dfir-incident-response/dfir-memory
+  * [Forensics Memory](methodologies/dfir-incident-response/dfir-memory/forensics-memory.md)
+  * [Forensics Memory Dump](methodologies/dfir-incident-response/dfir-memory/forensics-memory-dump.md)
+  * [Forensics Volatility](methodologies/dfir-incident-response/dfir-memory/forensics-volatility.md)
 
 ### 📁 technologies/Apple
   * [Apple Boot Process](technologies/Apple/apple-boot-process.md)
@@ -137,3 +165,6 @@ Welcome to the central knowledge repository for CyberPods6. This space hosts han
 
 ### 📁 walkthroughs/lab-resources
   * [Database Examples](walkthroughs/lab-resources/database-examples.md)
+
+### 📁 walkthroughs/tools
+  * [Forensics Registry Analysis Tools](walkthroughs/tools/forensics-registry-analysis-tools.md)
