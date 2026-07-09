@@ -16,6 +16,44 @@ To make learning easy, our training program is broken down into three main track
 
 ---
 
+## 📁 Repository Directory Structure
+`	ext
+└── methodologies/
+    └── CHFI-mapping/
+    └── compliance-frameworks/
+    └── dfir-incident-response/
+        └── 1-First-Response/
+        └── 2-Evidence-Preservation/
+        └── 3-Data-Acquisition/
+            └── dfir-memory/
+        └── 4-Data-Analysis/
+            └── dfir-malware/
+        └── 5-Case-Analysis/
+        └── 6-Reporting/
+        └── 7-Testimony/
+└── technologies/
+    └── Apple/
+    └── Cloud/
+        └── cloud-digital-forensics/
+    └── databases/
+        └── database-digital-forensics/
+    └── IoT/
+        └── IoT-digital-forensics/
+        └── IoT-hardening-secops/
+    └── Linux/
+        └── admin-foundations/
+        └── digital-forensics/
+        └── hardening-secops/
+    └── Windows/
+        └── admin-foundations/
+        └── digital-forensics/
+        └── hardening-secops/
+└── walkthroughs/
+    └── lab-resources/
+    └── tools/
+``n
+---
+
 ## 📂 Living Repository Index
 
 ### 📁 methodologies/CHFI-mapping

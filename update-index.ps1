@@ -18,16 +18,34 @@ To make learning easy, our training program is broken down into three main track
 
 ---
 
-## 📂 Living Repository Index
+## 📁 Repository Directory Structure
+```text
 "@
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-# Write the header to the file (this resets old dynamic links)
+# Write the initial header to the file
 $Header | Out-File -FilePath .\README.md -Encoding utf8
+
+# 2. STEP A: Generate the clean visual text tree structure at the top
+Get-ChildItem -Recurse -Directory | 
+    Sort-Object FullName | 
+    ForEach-Object {
+        $RelativePath = $_.FullName.Replace($(Get-Location).Path, "").Trim('\')
+        if ($RelativePath) {
+            # Count how deep the folder is to add the right amount of indentation spaces
+            $Depth = ($RelativePath -split '\\').Count - 1
+            $Spaces = "    " * $Depth
+            $FolderName = $_.Name
+            "$Spaces└── $FolderName/" | Out-File -FilePath .\README.md -Append -Encoding utf8
+        }
+    }
+
+# Close the code block for the directory structure and start the index section
+"````n`n---`n`n## 📂 Living Repository Index" | Out-File -FilePath .\README.md -Append -Encoding utf8
 
 # Track the current active directory to detect path changes
 $CurrentGroupPath = ""
 
-# 2. Scan for all .md files, sorted by their folder locations
+# 3. STEP B: Scan for all .md files and build the deep list with links
 Get-ChildItem -Recurse -Filter *.md | 
     Where-Object { $_.Name -ne "README.md" } | 
     Sort-Object DirectoryName, Name | 
@@ -37,19 +55,18 @@ Get-ChildItem -Recurse -Filter *.md |
         $FullRelativePath = $_.FullName.Replace($(Get-Location).Path + "\", "").Replace("\", "/")
         $FileFolder = $_.DirectoryName.Replace($(Get-Location).Path, "").Replace("\", "/").Trim('/')
 
-        # 3. Path Change Check: If we enter a new folder, create a new heading section
+        # Path Change Check: If we enter a new folder, create a new heading section
         if ($FileFolder -ne $CurrentGroupPath) {
             $CurrentGroupPath = $FileFolder
-            # Add a clean blank line break, then the header
             "" | Out-File -FilePath .\README.md -Append -Encoding utf8
             "### 📁 $FileFolder" | Out-File -FilePath .\README.md -Append -Encoding utf8
         }
         
-        # 4. Clean up the file display name (e.g., linux-basics-wt -> Linux Basics Wt)
+        # Clean up the file display name (e.g., linux-basics-wt -> Linux Basics Wt)
         $DisplayName = (Get-Culture).TextInfo.ToTitleCase($_.BaseName.Replace("-", " "))
         
         # Append the formatted markdown bullet to the active section
         "  * [$DisplayName]($FullRelativePath)" | Out-File -FilePath .\README.md -Append -Encoding utf8
     }
 
-Write-Host "✅ README.md has been grouped by path and successfully updated with the welcome guide!" -ForegroundColor Green
+Write-Host "✅ README.md successfully updated with both the folder tree map and detailed index!" -ForegroundColor Green
