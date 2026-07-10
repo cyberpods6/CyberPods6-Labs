@@ -20,7 +20,7 @@ To make learning easy, our training program is broken down into three main track
 
 ## Repository Directory Structure
 "@
-
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 # Write the initial header to the file
 $Header | Out-File -FilePath .\README.md -Encoding utf8
 
