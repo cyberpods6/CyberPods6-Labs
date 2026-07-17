@@ -17,6 +17,8 @@ To make learning easy, our training program is broken down into three main track
 ---
 
 ## Repository Directory Structure
+* **.github/**
+  * **workflows/**
 * **methodologies/**
   * **CHFI-mapping/**
   * **compliance-frameworks/**
@@ -31,8 +33,6 @@ To make learning easy, our training program is broken down into three main track
     * **6-Reporting/**
     * **7-Testimony/**
 * **technologies/**
-  * **.github/**
-    * **workflows/**
   * **Apple/**
   * **Cloud/**
     * **cloud-digital-forensics/**

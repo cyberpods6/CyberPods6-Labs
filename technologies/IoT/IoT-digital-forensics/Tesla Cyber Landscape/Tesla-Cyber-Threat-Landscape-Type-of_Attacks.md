@@ -51,3 +51,4 @@ Based on the sources and the specific incidents described, the cyberattacks agai
    **Backend Service Blackout**: By camping a vehicle on a rogue base station, an attacker can prevent it from receiving over-the-air (OTA) updates, real-time location reporting, or remote unlock commands from the mobile app.
 
    **Attach Loops**: Exploiting flawed reattachment logic where the vehicle's telematics unit gets stuck in a repetitive loop trying to connect to a failed or rejected network instead of switching to a backup.
+   
