@@ -1,5 +1,5 @@
 [8/4/2024 5:14 PM]
-# linux-x11
+# linux-x11 
 X11, also known as the X Window System, is a network-transparent windowing system for bitmap displays. It provides a basic framework for creating graphical user interfaces (GUIs) that can be displayed on both local and remote devices.
 ***
 ## Key features of X11
