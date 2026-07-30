@@ -226,6 +226,7 @@ To make learning easy, our training program is broken down into three main track
   * [Linux Sec Groups](technologies/Linux/hardening-secops/linux-sec-groups.md)
   * [Linux Sec Hardening The Server](technologies/Linux/hardening-secops/linux-sec-hardening-the-server.md)
   * [Linux Ss Replace Netstat](technologies/Linux/hardening-secops/linux-ss-replace-netstat.md)
+  * [Student_Guide Linux_History_Bypassing](technologies/Linux/hardening-secops/Student_Guide-Linux_History_Bypassing.md)
 
 ### Folder: technologies/Windows/admin-foundations
   * [General Windows Boot Process](technologies/Windows/admin-foundations/general-windows-boot-process.md)
