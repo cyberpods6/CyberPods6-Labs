@@ -27,6 +27,6 @@ Investigators must sanitize target media, use **hardware write-blockers** to pre
 **Tools Used in Module 4:** `dd`, PowerShell, `net`, `xmount`, Belkasoft RAM Capturer, DiskExplorer for NTFS, AccessData FTK Imager, PyTSK.
 
 #### Discord Channels and Resources
-*   `#forensics-volatility`
-*   `#forensics-memory-dump`
-*   `#forensics-write-blockers`
+* [#forensics-volatility](https://discord.com/channels/918477780214231081/1260979528709177495)
+* [#forensics-memory-dump](https://discord.com/channels/918477780214231081/1272991372441423964)
+* [#forensics-write-blockers](https://discord.com/channels/918477780214231081/1514352737272201226)

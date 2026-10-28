@@ -18,7 +18,6 @@ Investigators draft clear, concise reports summarizing evidence, methodologies, 
 **Tools Used in Module 2:** EaseUS Data Recovery Wizard, HashCal, MD5 Calculator, File Viewer, AccessData FTK Imager, R-drive Image.
 
 #### Discord Channels and Resources
-*   `#cft-fi-process`
-*   `#data-acquisition-and-evidence-handling`
-*   `#forensics-different-types-of-evidence`
-*   `#forensics-chain-of-custody`
+* [#data-acquisition-and-evidence-handling](https://discord.com/channels/918477780214231081/1515078651807400017)
+* [#forensics-different-types-of-evidence](https://discord.com/channels/918477780214231081/1260966691354054686)
+* [#forensics-chain-of-custody](https://discord.com/channels/918477780214231081/1514349125871599807)

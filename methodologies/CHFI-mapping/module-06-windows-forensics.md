@@ -38,8 +38,8 @@ The NTFS **`$LogFile`** records crucial file metadata changes (creation, deletio
 **Tools Used in Module 6:** PsTools, LogonSessions, Volatility, MemProcFS, AccessData FTK Imager, ChromeCacheView, OSForensics, Process Explorer, Event Log Explorer, RegRipper.
 
 #### Discord Channels and Resources
-*   `#windows-events-logs`
-*   `#windows-lnk-files`
-*   `#windows-shellbags-lab`
-*   `#windows-jump-lists`
-*   `#forensics-windows-file-analysis`
+* [#windows-events-logs](https://discord.com/channels/918477780214231081/1280966249945366538)
+* [#windows-lnk-files](https://discord.com/channels/918477780214231081/1285350484890222633)
+* [#windows-shellbags-lab](https://discord.com/channels/918477780214231081/1285332364968464384)
+* [#windows-jump-lists](https://discord.com/channels/918477780214231081/1308138445360594997)
+* [#forensics-windows-file-analysis](https://discord.com/channels/918477780214231081/1285658316395249766)

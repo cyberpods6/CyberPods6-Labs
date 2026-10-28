@@ -32,5 +32,5 @@ When a file is deleted in Windows, it moves to the hidden `$Recycle.Bin`. The sy
 **Tools Used in Module 5:** Autopsy, EaseUS, R-Studio, pwdump7, Passware Kit Forensic, StegSpy, OpenStego, DeepSound, Detect it Easy (DiE), ExeInfo PE, UPX, Eraser.
 
 #### Discord Channels and Resources
-*   `#forensics-anti-forensics`
-*   `#password-cracking-attacks`
+* [#forensics-anti-forensics](https://discord.com/channels/918477780214231081/1285652191931273246)
+* [#password-cracking-attacks](https://discord.com/channels/918477780214231081/1326051231889883266)

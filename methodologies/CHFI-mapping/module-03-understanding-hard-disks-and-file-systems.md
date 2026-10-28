@@ -42,11 +42,11 @@ Attackers spoof extensions (e.g., renaming `.exe` to `.jpg`). Hex editors reveal
 **Tools Used in Module 3:** Autopsy, The Sleuth Kit (TSK), WinHex, Hex Editor Neo.
 
 #### Discord Channels and Resources
-*   `#forensics-types-of-encoding-standards`
-*   `#forensics-ascii`
-*   `#dec-hex-bin`
-*   `#forensics-file-systems`
-*   `#mbr-vs-gpt`
-*   `#network-storage`
-*   `#macos-boot-process`
-*   `#general-linux-boot-process`
+* [#forensics-types-of-encoding-standards](https://discord.com/channels/918477780214231081/1282796881130422282)
+* [#forensics-ascii](https://discord.com/channels/918477780214231081/1282802672184852561)
+* [#dec-hex-bin](https://discord.com/channels/918477780214231081/1283508237848547439)
+* [#forensics-file-systems](https://discord.com/channels/918477780214231081/1260970065935994892)
+* [#mbr-vs-gpt](https://discord.com/channels/918477780214231081/1252726732289478757)
+* [#network-storage](https://discord.com/channels/918477780214231081/1278485252716625983)
+* [#macos-boot-process](https://discord.com/channels/918477780214231081/1277659870903930910)
+* [#general-linux-boot-process](https://discord.com/channels/918477780214231081/1277667487303077959)
