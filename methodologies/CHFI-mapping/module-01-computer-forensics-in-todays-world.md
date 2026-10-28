@@ -31,11 +31,11 @@ Investigators must adhere to laws governing search and seizure.
 *   **Rule 41(e)(2)(B):** Allows a two-step process: an initial broad seizure of electronic storage media followed by a thorough, off-site forensic search restricted to the scope of the warrant.
 
 #### Discord Channels and Resources
-*   `#forensics-fundamentals-of-computer-forensics`
-*   `#forensics-roles-of-the-first-responder`
-*   `#cft-computer-forensics-today`
-*   `#ctf-cybercrimes`
-*   `#cft-roles-and-responsibilities`
-*   `#cft-code-of-ethics`
-*   `#forensics-warrants`
-*   `#digital-footprints`
+* [#forensics-fundamentals-of-computer-forensics](https://discord.com/channels/918477780214231081/1272654690655539240)
+* [#forensics-roles-of-the-first-responder](https://discord.com/channels/918477780214231081/1260985686488645642)
+* [#cft-computer-forensics-today](https://discord.com/channels/918477780214231081/1248083277647057019)
+* [#ctf-cybercrimes](https://discord.com/channels/918477780214231081/1249414606644973579)
+* [#cft-roles-and-responsibilities](https://discord.com/channels/918477780214231081/1249418761685962844)
+* [#cft-code-of-ethics](https://discord.com/channels/918477780214231081/1249426588873785436)
+* [#forensics-warrants](https://discord.com/channels/918477780214231081/1260978274453159978)
+* [#digital-footprints](https://discord.com/channels/918477780214231081/1513667643431719033)
