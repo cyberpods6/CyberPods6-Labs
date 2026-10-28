@@ -9,8 +9,10 @@ Investigations are heavily challenged by the sheer diversity of hardware, encryp
 **Tools Used in Module 15:** Binwalk (firmware image extraction and filesystem analysis), Wireshark (network communications).
 
 #### Discord Channels and Resources
-*   `#iot-architecture`
-*   `#iot-security-problems`
-*   `#iot-attacks`
-*   `#forensics-on-iot-devices`
-*   `#common-iot-communication-protocols`
+* [#iot-architecture](https://discord.com/channels/918477780214231081/1311166071239082055)
+* [#iot-security-problems](https://discord.com/channels/918477780214231081/1311167262761156664)
+* [#iot-attacks](https://discord.com/channels/918477780214231081/1311171294569435196)
+* [#forensics-on-iot-devices](https://discord.com/channels/918477780214231081/1311173543966408815)
+* [#common-iot-communication-protocols](https://discord.com/channels/918477780214231081/1288603372857069711)
+* [#iot-common-types-of-data-collected](https://discord.com/channels/918477780214231081/1288603875510583296)
+* [#iot-key-components](https://discord.com/channels/918477780214231081/1311164054492020847)

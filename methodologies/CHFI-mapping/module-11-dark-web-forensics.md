@@ -12,5 +12,5 @@ Using memory analysis to scrape active RAM for unencrypted Tor node connections,
 **Tools Used in Module 11:** Tor Browser, WinPrefetchView, Bulk Extractor.
 
 #### Discord Channels and Resources
-*   `#web-dark-web-layers`
-*   `#tor-network`
+* [#web-dark-web-layers](https://discord.com/channels/918477780214231081/1311112101346934826)
+* [#tor-network](https://discord.com/channels/918477780214231081/1287856749616959592)

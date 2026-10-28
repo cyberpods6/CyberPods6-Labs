@@ -18,5 +18,7 @@ Extracting digital footprints, direct messages, and cached media from desktop El
 **Tools Used in Module 13:** SysTools EML Viewer, Recover My Email, Recovery Toolbox for Outlook, Python3 (for EML extraction).
 
 #### Discord Channels and Resources
-*   `#email-anatomy`
-*   `#email-forensics-basics`
+* [#email-anatomy](https://discord.com/channels/918477780214231081/1287869734867439686)
+* [#email-forensics-basics](https://discord.com/channels/918477780214231081/1311126863472627853)
+* [#email-crime-investigation](https://discord.com/channels/918477780214231081/1311127959024832552)
+* [#email-us-laws-against-email-crime](https://discord.com/channels/918477780214231081/1311135075055702026)

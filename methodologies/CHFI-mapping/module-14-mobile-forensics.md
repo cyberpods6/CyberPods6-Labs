@@ -25,7 +25,7 @@ Parsing localized artifacts such as SQLite3 database files to extract text messa
 **Tools Used in Module 14:** Autopsy.
 
 #### Discord Channels and Resources
-*   `#different-mobile-os`
-*   `#mobile-android-file-locations`
-*   `#mobile-iphone-file-locations`
-*   `#emerging-technologies-grapheneos`
+* [#different-mobile-os](https://discord.com/channels/918477780214231081/1277708373663420446)
+* [#mobile-android-file-locations](https://discord.com/channels/918477780214231081/1278445813034389545)
+* [#mobile-iphone-file-locations](https://discord.com/channels/918477780214231081/1278481158455427133)
+* [#emerging-technologies-grapheneos](https://discord.com/channels/918477780214231081/1519060961879920680)

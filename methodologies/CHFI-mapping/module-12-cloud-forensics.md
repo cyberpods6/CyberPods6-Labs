@@ -18,6 +18,11 @@ Utilizing the GCP Console to isolate affected instances and secure forensic copi
 **Tools Used in Module 12:** AWS Management Console, Azure Portal, Google Cloud Platform (GCP) Console.
 
 #### Discord Channels and Resources
-*   `#cloud-forensics`
-*   `#aws-cloud-forensics`
-*   `#azure-cloud-forensics`
+* [#cloud-forensics](https://discord.com/channels/918477780214231081/1311158946618413116)
+* [#aws-cloud-forensics](https://discord.com/channels/918477780214231081/1288585889559089262)
+* [#azure-cloud-forensics](https://discord.com/channels/918477780214231081/1288586998252179556)
+* [cloud-computing-threats-and-attacks](https://discord.com/channels/918477780214231081/1311155857722966106)
+* [cloud-forensics-challenges](https://discord.com/channels/918477780214231081/1311161175433674753)
+* [cloud-key-characteristics-of-cloud-computing](https://discord.com/channels/918477780214231081/1311144968018202635)
+* [cloud-computing-advantages-disadvantages](https://discord.com/channels/918477780214231081/1311150069516337183)
+* [cloud-computing-separation-of-duty](https://discord.com/channels/918477780214231081/1311152271350038598)

@@ -18,6 +18,6 @@ Correlating Web Application Firewall (WAF) logs, application databases (MySQL/SQ
 **Tools Used in Module 10:** Splunk Enterprise, Apache, IIS Server, ModSecurity WAF.
 
 #### Discord Channels and Resources
-*   `#apache-logs`
-*   `#iis-logs`
-*   `#most-common-web-application-vulnerabilities`
+* [#apache-logs](https://discord.com/channels/918477780214231081/1280986248999075941)
+* [#iis-logs](https://discord.com/channels/918477780214231081/1280993645775945800)
+* [#most-common-web-application-vulnerabilities](https://discord.com/channels/918477780214231081/1283524331015766106)

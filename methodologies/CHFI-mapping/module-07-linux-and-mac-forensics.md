@@ -15,6 +15,6 @@ Mac (macOS) forensic analysis involves parsing the APFS file system (snapshots, 
 **Tools Used in Module 7:** `w`, `netstat`, `lsof`, `ausearch`, `ps auxww`, `rkhunter`, Autopsy, Volatility Framework, PhotoRec, `testdisk`.
 
 #### Discord Channels and Resources
-*   `#forensics-linux-analysis`
-*   `#linux-log-files`
-*   `#macos-file-analysis`
+* [#forensics-linux-analysis](https://discord.com/channels/918477780214231081/1285686968885317785)
+* [#linux-log-files](https://discord.com/channels/918477780214231081/1280976035294482534)
+* [#forensics-macos-file-analysis](https://discord.com/channels/918477780214231081/1285695472690008064)

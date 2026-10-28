@@ -24,7 +24,7 @@ Analyzing wireless PCAPs (using Aircrack-ng) to spot rogue access points or reco
 **Tools Used in Module 8:** Splunk Enterprise, Kiwi Log Viewer, Wireshark, `auth.log`, `pyshark`, `tshark`.
 
 #### Discord Channels and Resources
-*   `#network-protocol-analyzers`
-*   `#wireshark`
-*   `#wireless-attacks`
-*   `#distributed-denial-of-service-ddos-attack`
+* [#network-protocol-analyzers](https://discord.com/channels/918477780214231081/1281019557158322248)
+* [#wireshark](https://discord.com/channels/918477780214231081/1326044007616479252)
+* [#wireless-attacks](https://discord.com/channels/918477780214231081/1282873452768006218)
+* [#distributed-denial-of-service-ddos-attack](https://discord.com/channels/918477780214231081/1278847667748995293)
