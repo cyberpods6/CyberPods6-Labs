@@ -31,12 +31,11 @@ Investigators must adhere to laws governing search and seizure.
 *   **Rule 41(e)(2)(B):** Allows a two-step process: an initial broad seizure of electronic storage media followed by a thorough, off-site forensic search restricted to the scope of the warrant.
 
 #### Discord Channels and Resources
-* [#forensics-fundamentals-of-computer-forensics](https://discord.com/channels/918477780214231081/1272654690655539240){target="_blank"}
-* [#forensics-roles-of-the-first-responder](https://discord.com/channels/918477780214231081/1260985686488645642){target="_blank"}
-* [#cft-computer-forensics-today](https://discord.com/channels/918477780214231081/1248083277647057019){target="_blank"}
-* [#ctf-cybercrimes](https://discord.com/channels/918477780214231081/1249414606644973579){target="_blank"}
-* [#cft-roles-and-responsibilities](https://discord.com/channels/918477780214231081/1249418761685962844){target="_blank"}
-* [#cft-code-of-ethics](https://discord.com/channels/918477780214231081/1249426588873785436){target="_blank"}
-* [#forensics-warrants](https://discord.com/channels/918477780214231081/1260978274453159978){target="_blank"}
-* [#digital-footprints](https://discord.com/channels/918477780214231081/1513667643431719033){target="_blank"}
-* [Example](https://example.com){:target="_blank"}
+* <a href="https://discord.com/channels/918477780214231081/1272654690655539240" target="_blank" rel="noopener noreferrer">#forensics-fundamentals-of-computer-forensics</a>
+* <a href="https://discord.com/channels/918477780214231081/1260985686488645642" target="_blank" rel="noopener noreferrer">#forensics-roles-of-the-first-responder</a>
+* <a href="https://discord.com/channels/918477780214231081/1248083277647057019" target="_blank" rel="noopener noreferrer">#cft-computer-forensics-today</a>
+* <a href="https://discord.com/channels/918477780214231081/1249414606644973579" target="_blank" rel="noopener noreferrer">#ctf-cybercrimes</a>
+* <a href="https://discord.com/channels/918477780214231081/1249418761685962844" target="_blank" rel="noopener noreferrer">#cft-roles-and-responsibilities</a>
+* <a href="https://discord.com/channels/918477780214231081/1249426588873785436" target="_blank" rel="noopener noreferrer">#cft-code-of-ethics</a>
+* <a href="https://discord.com/channels/918477780214231081/1260978274453159978" target="_blank" rel="noopener noreferrer">#forensics-warrants</a>
+* <a href="https://discord.com/channels/918477780214231081/1513667643431719033" target="_blank" rel="noopener noreferrer">#digital-footprints</a>
