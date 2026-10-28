@@ -16,7 +16,7 @@ The key rules and guidelines are structured across several core ethical areas:
 
 ### 4. Legal Integrity & Financial Honesty
 * **Lawful Software and Tools**: Members must never knowingly use software, utilities, or processes obtained or retained illegally or unethically.
-* **No Deceptive Financials**: Engaging in deceptive financial practices—such as bribery, double-billing, or improper invoicing—is strictly prohibited.
+* **No Deceptive Financials**: Engaging in deceptive financial practices such as bribery, double-billing, or improper invoicing is strictly prohibited.
 * **Property Protection**: Client and employer property must be accessed and used strictly with authorization and consent.
 
 ### 5. Conflict of Interest & Exam Integrity

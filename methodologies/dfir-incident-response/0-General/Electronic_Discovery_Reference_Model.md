@@ -1,6 +1,6 @@
 The **Electronic Discovery Reference Model (EDRM)** is the industry-standard framework that governs how organizations manage **Electronically Stored Information (ESI)** during civil litigation, regulatory audits, and internal investigations. 
 
-While computer forensics focuses on deep, bit-stream reconstruction of latent and deleted artifacts, the EDRM cycle structures the lifecycle of active document discovery—moving from a broad, unstructured volume of enterprise data down to a highly targeted, legally reviewable dataset.
+While computer forensics focuses on deep, bit-stream reconstruction of latent and deleted artifacts, the EDRM cycle structures the lifecycle of active document discovery moving from a broad, unstructured volume of enterprise data down to a highly targeted, legally reviewable dataset.
 
 ---
 

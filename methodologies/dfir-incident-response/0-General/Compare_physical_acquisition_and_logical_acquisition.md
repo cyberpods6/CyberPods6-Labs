@@ -4,7 +4,7 @@ In digital forensics and data acquisition methodologies, **physical acquisition*
 
 ### **1. Core Concept & Scope**
 
-* **Physical Acquisition**: Executes a **bit-stream, sector-by-sector copy** of the entire physical storage medium (e.g., hard drive, SSD, USB drive, or mobile flash memory). It captures the complete physical layout of the drive—including all active partitions, hidden/system partitions, unallocated space, volume slack, swap files, and deleted data.
+* **Physical Acquisition**: Executes a **bit-stream, sector-by-sector copy** of the entire physical storage medium (e.g., hard drive, SSD, USB drive, or mobile flash memory). It captures the complete physical layout of the drive including all active partitions, hidden/system partitions, unallocated space, volume slack, swap files, and deleted data.
 * **Logical Acquisition**: Extracts a copy of **specific logical file structures, active files, and directories** accessible through the file system or operating system. It copies only allocated, active files and folders (such as user documents, emails, or app databases) while completely bypassing unallocated space.
 
 ---
@@ -14,7 +14,7 @@ In digital forensics and data acquisition methodologies, **physical acquisition*
 | Dimension | Physical Acquisition | Logical Acquisition |
 | :--- | :--- | :--- |
 | **Data Captured** | Entire physical drive (Allocated + Unallocated space) | Active, allocated files and folders only |
-| **Deleted File Recovery** | **Yes** — enables file carving and recovery from unallocated clusters | **No** — deleted data residing in unallocated space is missed |
+| **Deleted File Recovery** | **Yes** enables file carving and recovery from unallocated clusters | **No**  deleted data residing in unallocated space is missed |
 | **Slack & System Space** | Captures file slack, RAM slack, and unallocated metadata | Ignores slack space and raw sector offsets |
 | **Bypassing File Locks** | Can read raw storage sectors directly under write-blockers | Subject to OS file access restrictions and active file locks |
 

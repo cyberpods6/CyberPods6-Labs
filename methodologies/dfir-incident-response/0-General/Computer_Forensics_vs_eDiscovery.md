@@ -11,8 +11,8 @@ Below are the key differences between the two disciplines:
 ---
 
 ### **2. Target Data & Scope**
-* **Computer Forensics**: Targets **latent, deleted, and volatile artifacts**—including deleted files in unallocated disk space, Master File Table (\$MFT) records, swap files, volatile RAM, registry hives, and system logs.
-* **eDiscovery**: Targets **active, accessible ESI**—focusing on user-generated documents, email mailboxes, chat logs, and shared corporate cloud repositories.
+* **Computer Forensics**: Targets **latent, deleted, and volatile artifacts** including deleted files in unallocated disk space, Master File Table (\$MFT) records, swap files, volatile RAM, registry hives, and system logs.
+* **eDiscovery**: Targets **active, accessible ESI** focusing on user-generated documents, email mailboxes, chat logs, and shared corporate cloud repositories.
 
 ---
 
