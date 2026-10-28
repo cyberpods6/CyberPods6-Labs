@@ -23,6 +23,7 @@ To make learning easy, our training program is broken down into three main track
   * **CHFI-mapping/**
   * **compliance-frameworks/**
   * **dfir-incident-response/**
+    * **0-General/**
     * **1-First-Response/**
     * **2-Evidence-Preservation/**
     * **3-Data-Acquisition/**
@@ -86,6 +87,15 @@ To make learning easy, our training program is broken down into three main track
   * [Forensics Laws And Regulations](methodologies/compliance-frameworks/forensics-laws-and-regulations.md)
   * [Nice Framework Components V100](methodologies/compliance-frameworks/nice-framework-components-v100.md)
   * [Usa Blueprint For An Ai Bill Of Rights](methodologies/compliance-frameworks/usa-blueprint-for-an-ai-bill-of-rights.md)
+
+### Folder: methodologies/dfir-incident-response/0-General
+  * [Compare_Physical_Acquisition_And_Logical_Acquisition](methodologies/dfir-incident-response/0-General/Compare_physical_acquisition_and_logical_acquisition.md)
+  * [Computer_Forensics_Vs_Ediscovery](methodologies/dfir-incident-response/0-General/Computer_Forensics_vs_eDiscovery.md)
+  * [Data_Acquisition_Methodology](methodologies/dfir-incident-response/0-General/Data_Acquisition_Methodology.md)
+  * [Digital_Forensics IR Frameworks](methodologies/dfir-incident-response/0-General/Digital_Forensics-IR-Frameworks.md)
+  * [EC Council_Code_Of_Ethics](methodologies/dfir-incident-response/0-General/EC-Council_Code_of_Ethics.md)
+  * [Electronic_Discovery_Reference_Model](methodologies/dfir-incident-response/0-General/Electronic_Discovery_Reference_Model.md)
+  * [Preserving_The_Chain_Of_Custody](methodologies/dfir-incident-response/0-General/Preserving_the_Chain_of_Custody.md)
 
 ### Folder: methodologies/dfir-incident-response/1-First-Response
   * [0 1 Description](methodologies/dfir-incident-response/1-First-Response/0-1-Description.md)
